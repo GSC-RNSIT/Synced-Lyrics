@@ -1,5 +1,5 @@
 # Synced-Lyrics
-Authored by Neetika Bishwas
+Authored by Neetika Bishwas and Vijayendra Pandey
 
 Team name - Synced Lyrics
 
